@@ -5,6 +5,7 @@ A Spec repo for SciChart.iOS pods
 
 In a podfile, add the following 
 
+```
 // Define the SciChart cocoapods source
 source 'https://github.com/ABTSoftware/PodSpecs.git'
 
@@ -23,6 +24,6 @@ target 'MyApp' do
     pod 'SciChart'
     project 'My.Application/My.Application.xcodeproj'
 end
-
+```
 
 More info found at https://guides.cocoapods.org/using/using-cocoapods
