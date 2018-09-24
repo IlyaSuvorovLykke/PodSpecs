@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.license           = { :type => "Commercial", :file => "LICENSE.txt" }
 
     s.platform          = :ios
-    s.source            = { :http => "https://github.com/ABTSoftware/PodSpecs/releases/download/v2.2.0.2242/SciChart_iOS_Framework.zip" }
+    s.source            = { :http => "https://github.com/IlyaSuvorovLykke/PodSpecs/releases/download/v2.2.0.2242/SciChart_iOS_Framework.zip" }
 
     s.ios.deployment_target = "8.0"
     s.ios.vendored_frameworks = "SciChart.framework"
